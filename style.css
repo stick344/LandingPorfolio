@@ -283,7 +283,7 @@ h1{
     background-color:var(--background-first);
     background:url("/images/ross.jpg");
     color: var(--text-color);
-    height: 500px;
+    height: 720px;
 }
 
 
@@ -341,8 +341,8 @@ a{
     color: white;
 }
 svg{
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 50px;
     
 }
 svg:hover{
