@@ -115,13 +115,13 @@ html {
 
 
 
-.btn_str{
+/* .btn_str{
     color: var(--text-color-second);
     text-decoration: none;
     border-radius: 50%;
     padding: 5px auto;
 
-}
+} */
 
 .intro__titls{
     font-size: 65px;
