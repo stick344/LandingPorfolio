@@ -472,6 +472,7 @@ html {
 
 .satis{
     margin: 0.2rem;
+    text-transform: uppercase;
 }
 
 .satis:hover{
